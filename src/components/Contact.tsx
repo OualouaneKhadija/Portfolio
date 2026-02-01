@@ -27,20 +27,20 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      href: "mailto:khadija.oualouane@example.com",
-      value: "khadija.oualouane@example.com",
+      href: "mailto:khadijaoualouane06@gmail.com",
+      value: "khadijaoualouane06@gmail.com",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       href: "#",
-      value: "linkedin.com/in/khadija-oualouane",
+      value: "https://www.linkedin.com/in/khadija-oualouane-774657330/",
     },
     {
       icon: Github,
       label: "GitHub",
       href: "#",
-      value: "github.com/khadija-oualouane",
+      value: "https://github.com/OualouaneKhadija",
     },
   ];
 

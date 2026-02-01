@@ -60,7 +60,7 @@ const Experience = () => {
                   </p>
                 </div>
                 <span className="px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-medium">
-                  2024
+                  2025
                 </span>
               </div>
 
